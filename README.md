@@ -8,6 +8,7 @@ I am a passionate programmer, researcher and business developer with a diverse s
 - **Astrophysics**
 - **Machine Learning (ML)**
 - **Deep Learning (DL)**
+- **Reinforced MULTI AGENT Learning (SWARM)**
 - **Artificial Intelligence (AI)**
 - **Data Science**
 - **Computational Physics**
